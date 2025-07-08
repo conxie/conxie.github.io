@@ -25,6 +25,6 @@ announcements:
 
 ### Hello! 
 
-As a quick introduction to myself, I am a recent alumni from UC San Diego. I double majored in Clinical Psychology and Cognitive & Behavioral Neuroscience. Currently, I am working with [Dr. Anastasia Kiyonaga](https://www.kiyonagalab.org/pi-anastasia-kiyonaga) and [Dr. Dawn Schiehser](https://psychiatry.ucsd.edu/research/programs-centers/ncml/index.html) on a variety of projects in the realm of clinical neuropsychology, working memory, and pupillometry! 
+As a quick introduction to myself, I am a recent alumni from UC San Diego. I double majored in Clinical Psychology and Cognitive & Behavioral Neuroscience. Currently, I am working with [Dr. Anastasia Kiyonaga](https://www.kiyonagalab.org/pi-anastasia-kiyonaga) and [Dr. Dawn Schiehser](https://psychiatry.ucsd.edu/research/programs-centers/ncml/team.html) on a variety of projects within the realm of clinical neuropsychology, working memory, and pupillometry! 
 
 Research interests aside, I enjoy weight lifting🏋, hanging out with friends🗣️, and picking up new skills🛠️ 
