@@ -377,16 +377,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-yay-i-will-be-starting-as-a-part-time-research-assistant-at-the-kiyonaga-lab-under-dr-anastasia-kiyonaga-and-phd-candidate-yueying-dong-conducting-independent-research-investigating-the-pupillary-near-response-in-visual-working-memory",
+          title: 'Yay! I will be starting as a part time Research Assistant at the...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-excited-to-announce-i-be-joining-the-cns-laboratory-of-memory-and-brain-at-va-san-diego-healthcare-as-a-research-assistant-under-the-guidance-of-dr-christine-n-smith-and-dr-lisa-delano-wood-this-fall-sparkles-smile",
+          title: 'Excited to announce I be joining the CNS Laboratory of Memory and Brain...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
