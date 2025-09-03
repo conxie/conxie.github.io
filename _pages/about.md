@@ -8,11 +8,11 @@ profile:
   align: left
   image: Connie-7303.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p><a href="assets/pdf/XIE_CONNIE_CV.pdf">CV</a>|</p>
-    <p><a href="https://github.com/conxie">GitHub</a>|</p>
-    <p><a href="https://www.linkedin.com/in/connie-xie-912414211/">LinkedIn</a>|</p>
-    <p><a href="mailto:c.xie0348@gmail.com">Email</a></p>
+  more_info: |
+  [CV](/assets/pdf/XIE_CONNIE_CV_GRAD.pdf) | 
+  [GitHub](https://github.com/conxie) | 
+  [LinkedIn](https://www.linkedin.com/in/connie-xie-912414211/) | 
+  [Email](mailto:c.xie0348@gmail.com)
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
