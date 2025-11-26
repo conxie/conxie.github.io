@@ -377,7 +377,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-yay-i-will-be-starting-as-a-part-time-research-assistant-at-the-kiyonaga-lab-under-dr-anastasia-kiyonaga-and-phd-candidate-yueying-dong-conducting-independent-research-investigating-the-pupillary-near-response-in-visual-working-memory",
+            },},{id: "news-first-national-conference-smile-i-showcased-my-findings-on-the-impact-of-traumatic-brain-injuries-on-cognitive-diagnostic-categorization-in-parkinson-s-disease-take-a-look-at-the-abstract",
+          title: 'First national conference. :smile: I showcased my findings on the impact of traumatic...',
+          description: "",
+          section: "News",},{id: "news-yay-i-will-be-starting-as-a-part-time-research-assistant-at-the-kiyonaga-lab-under-dr-anastasia-kiyonaga-and-phd-candidate-yueying-dong-conducting-independent-research-investigating-the-pupillary-near-response-in-visual-working-memory",
           title: 'Yay! I will be starting as a part time Research Assistant at the...',
           description: "",
           section: "News",},{id: "news-excited-to-announce-i-will-be-joining-the-cns-laboratory-of-memory-and-brain-at-va-san-diego-healthcare-as-a-study-coordinator-under-the-guidance-of-dr-christine-n-smith-and-dr-lisa-delano-wood-this-fall-sparkles-smile",
