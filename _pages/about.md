@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: left
-  image: Connie-7303_edited.jpg"
+  image: Connie-7303_edited.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href="/assets/pdf/XIE_CONNIE_CV_GRAD__Copy.pdf">CV</a>|</p>
