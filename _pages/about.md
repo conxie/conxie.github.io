@@ -25,6 +25,6 @@ announcements:
 
 ### Hello! 
 
-As a quick introduction to myself, I am a recent alumni from UC San Diego. I double majored in Clinical Psychology and Cognitive & Behavioral Neuroscience. Currently, I am working with [Dr. Christine Smith](https://profiles.ucsd.edu/christine.smith), [Dr. Dawn Schiehser](), and [Dr. Anastasia Kiyonaga](https://www.kiyonagalab.org/pi-anastasia-kiyonaga) on a variety of projects within the realm of clinical neuropsychology, memory, and pupillometry! 
+As a quick introduction to myself, I am a recent alumni from UC San Diego. I double majored in Clinical Psychology and Cognitive & Behavioral Neuroscience. Currently, I am working with [Dr. Christine Smith](https://profiles.ucsd.edu/christine.smith), [Dr. Dawn Schiehser](https://directory.ufhealth.org/schiehser-dawn), and [Dr. Anastasia Kiyonaga](https://www.kiyonagalab.org/pi-anastasia-kiyonaga) on a variety of projects within the realm of clinical neuropsychology, memory, and pupillometry! 
 
 Research interests aside, I enjoy weight lifting🏋, hanging out with friends🗣️, and picking up new skills🛠️ 
