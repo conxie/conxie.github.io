@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-Starting my PhD in Clincial Psychology under the guidance of [Dr. John Williamson](https://phhp.ufl.edu/profile/williamson-john/) and [Dr. Dawn Schiehser](https://phhp.ufl.edu/profile/schiehser-dawn/) at the University of Florida. 
+Starting my PhD in Clincial Psychology under the guidance of [Dr. John Williamson](https://phhp.ufl.edu/profile/williamson-john/) and [Dr. Dawn Schiehser](https://phhp.ufl.edu/profile/schiehser-dawn/) at the University of Florida. :smile:
