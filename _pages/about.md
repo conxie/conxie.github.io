@@ -25,6 +25,6 @@ announcements:
 
 ### Hello! 
 
-As a quick introduction to myself, I am a recent alumni from UC San Diego. I double majored in Clinical Psychology and Cognitive & Behavioral Neuroscience. Currently, I am working with [Dr. Christine Smith](https://profiles.ucsd.edu/christine.smith), [Dr. Dawn Schiehser](https://directory.ufhealth.org/schiehser-dawn), and [Dr. Anastasia Kiyonaga](https://www.kiyonagalab.org/pi-anastasia-kiyonaga) on a variety of projects within the realm of clinical neuropsychology, memory, and pupillometry! 
+As a quick introduction to myself, I am a current first year doctoral student at the University of Florida, and an alumni of UC San Diego. Currently, I am working with [Dr. John Williamson](https://phhp.ufl.edu/profile/williamson-john/) and [Dr. Dawn Schiehser](https://phhp.ufl.edu/profile/schiehser-dawn/) on a variety of projects within the realm of traumatic brain injuries, transcutaneous auricular vagus nerve stimulation, Parkinson's Disease, multimodal neuroimaging, Obsessive Compulsive Disorder, pupillometry, and healthy aging! 
 
 Research interests aside, I enjoy weight lifting🏋, hanging out with friends🗣️, and picking up new skills🛠️ 
